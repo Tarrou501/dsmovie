@@ -1,0 +1,4 @@
+EPISÓDIO 1: ERRO AO CRIAR O PROJETO FRONTEND
+npm cache clean --force
+npm install -g npm@latest --force
+npm cache clean --force
